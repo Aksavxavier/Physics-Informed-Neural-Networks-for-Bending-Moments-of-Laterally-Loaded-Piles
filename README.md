@@ -19,4 +19,3 @@ Develop an inverse PINN that learns the bending stiffness parameter  directly fr
 
 Build a parametric PINN with variable  as an input, allowing cross-sectional stiffness variation.
 
-Prepare a presentation summarizing methodology, implementation, comparisons, and results.
