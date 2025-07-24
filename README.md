@@ -3,35 +3,7 @@ Physics-Informed Neural Networks for Bending Moments of Laterally Loaded Piles
 
 This repository implements Physics-Informed Neural Networks (PINNs) to predict bending moment distributions of laterally loaded piles from observed displacements. The framework includes forward, inverse, and parametric PINN models, along with tools for non-dimensionalization and analysis.
 
-Table of Contents
 
-Background
-
-Objectives
-
-Governing Equations
-
-Project Structure
-
-Requirements
-
-Installation
-
-Usage
-
-Non-dimensionalization
-
-Forward PINN
-
-Inverse PINN
-
-Parametric PINN
-
-Results and Presentation
-
-References
-
-License
 
 Background
 
